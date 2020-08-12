@@ -1,1 +1,0 @@
-# design-choices-for-central-bank-digital-currency
